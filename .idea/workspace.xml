@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f23c3b5-4f6b-4c7b-8c85-18d3b9618d5d" name="Default Changelist" comment="" />
+    <list default="true" id="8f23c3b5-4f6b-4c7b-8c85-18d3b9618d5d" name="Default Changelist" comment="213" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -21,8 +32,21 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1qD2y8HoYoA25kVYNyy56t1DDUb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/json_simple-1.1.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shuyi\OneDrive\Documents\GitHub\stocksearch" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="StockSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -38,6 +62,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8f23c3b5-4f6b-4c7b-8c85-18d3b9618d5d" name="Default Changelist" comment="" />
@@ -47,5 +72,67 @@
       <updated>1616600093206</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="7" key="#Project_Structure" timestamp="1620227514053">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="7" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1620227514053" />
+    <state x="823" y="324" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1620399996504">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="823" y="324" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864@0.0.1536.864" timestamp="1620399996504" />
+    <state x="859" y="200" key="FileChooserDialogImpl" timestamp="1620227509675">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="859" y="200" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1620227509675" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1620400373976">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1620400373976" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1620400373972">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1620400373972" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1620400373971">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1620400373970" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1620400373973">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1620400373973" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1620233310059">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1620233310059" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1620233310058">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1620233310058" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1620233310058">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1620233310058" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1620233310058">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1620233310058" />
+    <state x="510" y="68" key="NewModule_or_Project.wizard" timestamp="1620198480868">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="510" y="68" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1620198480868" />
+    <state width="775" height="439" key="XDebugger.FullValuePopup" timestamp="1620232710196">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="775" height="439" key="XDebugger.FullValuePopup/0.0.1536.864@0.0.1536.864" timestamp="1620232710196" />
+    <state x="573" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620400569716">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="573" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1620400569716" />
   </component>
 </project>
