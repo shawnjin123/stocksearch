@@ -103,21 +103,21 @@ public class stockrequest {
             JSONObject stockData = (JSONObject) parser.parse(in);
 
             Map meta=(Map) stockData.get("Meta Data");
-            String dateKey=(String)meta.get("3.Last Refreshed");
+            String dateKey=(String)meta.get("3. Last Refreshed");
 
             Map allSeries=(Map)stockData.get("Monthly Time Series");
             Map firstSeries=(Map) allSeries.get(dateKey);
-            String high=(String)firstSeries.get("2.high") ;
-            String low=(String) firstSeries.get("3.low");
+            String high=(String)firstSeries.get("2. high") ;
+            String low=(String) firstSeries.get("3. low");
             System.out.println(high);
             System.out.println(low);
 
-            Map mainStockData = (Map)stockData.get("main");
-            Double price = (Double)mainStockData.get("price");
+
+
 
 
             //build the response object and return it
-            stockresponse response = new stockresponse(price);
+            stockresponse response = new stockresponse(Double.parseDouble(high),Double.parseDouble(low),dateKey);
             return response;
         }
 

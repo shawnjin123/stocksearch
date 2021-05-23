@@ -1,15 +1,24 @@
 public class stockresponse {
 
-        private double price;
+        private double high;
+        private double low;
+        private String date;
 
-        public stockresponse(double price)
+
+        public stockresponse(double high,double low,String date)
         {
-            this.price = price;
+            this.low=low;
+            this.high = high;
+            this.date=date;
         }
 
-        public double getPrice()
+        public double getHigh()
         {
-            return price;
+            return high;
         }
+        public double getLow(){return  low;}
+        public String getDate(){return date;}
+
+
     }
 

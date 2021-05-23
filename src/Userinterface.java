@@ -66,10 +66,12 @@ public class Userinterface {
             System.out.println(msg);
         }
 
-        public void displayStockData(double price)
+        public void displayStockData(stockresponse response)
         {
-            System.out.println("Current Price: " + price);
-            System.out.println();
+            System.out.println("current date:"+response.getDate());
+            System.out.println("Current high: " + response.getHigh());
+            System.out.println("Current low:"+response.getLow());
+
         }
 
     }

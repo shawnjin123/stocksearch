@@ -3,10 +3,15 @@ public class StockSearch {
     {
         Userinterface ui = new Userinterface();
         stockrequest req = new stockrequest();
-        StockCodePath(ui,req);
+        while (true) {
 
-        stockresponse response=req.getStockCode();
-        ui.displayStockData(response.getPrice());
+
+            StockCodePath(ui, req);
+
+
+            stockresponse response = req.getStockCode();
+            ui.displayStockData(response);
+        }
 
 
 
