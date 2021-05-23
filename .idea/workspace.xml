@@ -19,7 +19,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -82,30 +81,30 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="7" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1620227514053" />
-    <state x="823" y="324" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1620399996504">
+    <state x="823" y="324" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1620401260965">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="823" y="324" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864@0.0.1536.864" timestamp="1620399996504" />
+    <state x="823" y="324" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864@0.0.1536.864" timestamp="1620401260965" />
     <state x="859" y="200" key="FileChooserDialogImpl" timestamp="1620227509675">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="859" y="200" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1620227509675" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1620400373976">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1620401103589">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1620400373976" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1620400373972">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1620401103589" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1620401103589">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1620400373972" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1620400373971">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1620401103589" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1620401103588">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1620400373970" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1620400373973">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1620401103588" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1620401103589">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1620400373973" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1620401103589" />
     <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1620233310059">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -130,9 +129,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="775" height="439" key="XDebugger.FullValuePopup/0.0.1536.864@0.0.1536.864" timestamp="1620232710196" />
-    <state x="573" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620400569716">
+    <state x="573" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620400725695">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="573" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1620400569716" />
+    <state x="573" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1620400725695" />
   </component>
 </project>

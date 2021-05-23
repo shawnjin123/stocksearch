@@ -3,6 +3,7 @@ public class StockSearch {
     {
         Userinterface ui = new Userinterface();
         stockrequest req = new stockrequest();
+        StockCodePath(ui,req);
 
         stockresponse response=req.getStockCode();
         ui.displayStockData(response.getPrice());
@@ -18,13 +19,13 @@ public class StockSearch {
         {
             //set the mode on the request which will determine how the url is constructed
             //TODO: refactor so the validation loop is handled in the UserInterface
-            boolean validZip = false;
-            while (!validZip) {
+            boolean validStockCode = false;
+            while (!validStockCode) {
                 String zip = ui.inputStockCode();
                 String result = req.setStockCode(zip);
                 if (result == null) {
 
-                    validZip = true;
+                    validStockCode = true;
                 } else {
                     ui.displayErrorMessage(result);
                 }
