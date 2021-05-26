@@ -15,7 +15,7 @@ public class Userinterface {
         {
 
                 System.out.println("Please write Stock Code");
-                System.out.println("Enter Q to quit");
+                System.out.println("Enter 0 to quit");
                 System.out.println();
                 String StockCodes=input.nextLine();
 
@@ -68,6 +68,7 @@ public class Userinterface {
 
         public void displayStockData(stockresponse response)
         {
+            System.out.println("Symbol"+response.getStockcode());
             System.out.println("current date:"+response.getDate());
             System.out.println("Current high: " + response.getHigh());
             System.out.println("Current low:"+response.getLow());

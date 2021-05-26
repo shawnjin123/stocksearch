@@ -8,9 +8,15 @@ public class StockSearch {
 
             StockCodePath(ui, req);
 
+            if (req.getStockCode().equals("0"))
+            {
+                break;
+            }
 
-            stockresponse response = req.getStockCode();
+            stockresponse response = req.getStockdata();
             ui.displayStockData(response);
+
+
         }
 
 

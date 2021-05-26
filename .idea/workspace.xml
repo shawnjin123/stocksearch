@@ -82,6 +82,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="7" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1620227514053" />
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1622039471129">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1622039471129" />
     <state x="823" y="324" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1620401260965">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -90,22 +94,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="859" y="200" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1620227509675" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1621782520481">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1622039266760">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1621782520481" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1621782520480">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1622039266760" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1622039266756">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1621782520480" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1621782520480">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1622039266756" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1622039266754">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1621782520480" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1621782520481">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1622039266754" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1622039266757">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1621782520481" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1622039266757" />
     <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1621781728977">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -134,16 +138,5 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="573" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1621780697451" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stockrequest.java</url>
-          <line>108</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
